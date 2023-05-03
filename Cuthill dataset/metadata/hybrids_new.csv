@@ -1,0 +1,713 @@
+NHM specimen number,Image filename,View,Species,Subspecies,Sex,Additional taxonomic information (from specimen labels),Type Status,Hybrid status of additional taxonomic information,Included in reduced dataset,Locality,Locality latitude,Locality longitude
+10427969,10427969_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Muzo COL BY,5.533333333,-74.1
+10427969,10427969_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Muzo COL BY,5.533333333,-74.1
+10427970,10427970_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Amazonas PROVINCE PER,,
+10427970,10427970_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Amazonas PROVINCE PER,,
+10427971,10427971_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,"Rio Guachaca, COL MA",11.26666667,-73.81666667
+10427971,10427971_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,"Rio Guachaca, COL MA",11.26666667,-73.81666667
+10427996,10427996_D_lowres.tif,dorsal,melpomene,rosina,female,melpomene_X_cydno_hyb.,,hybrid,0,"San Luis, Guacimo, Limon CRI",10.21392222,-83.69201389
+10427996,10427996_V_lowres.tif,ventral,melpomene,rosina,female,melpomene_X_cydno_hyb.,,hybrid,0,"San Luis, Guacimo, Limon CRI",10.21392222,-83.69201389
+10428028,10428028_D_lowres.tif,dorsal,melpomene,cythera,male,_ab._modesta,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428028,10428028_V_lowres.tif,ventral,melpomene,cythera,male,_ab._modesta,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428030,10428030_D_lowres.tif,dorsal,melpomene,cythera,male,ab._modesta,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428030,10428030_V_lowres.tif,ventral,melpomene,cythera,male,ab._modesta,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428034,10428034_D_lowres.tif,dorsal,melpomene,cythera,female,ab._modesta,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428034,10428034_V_lowres.tif,ventral,melpomene,cythera,female,ab._modesta,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428035,10428035_D_lowres.tif,dorsal,melpomene,cythera,male,ab._modesta,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428035,10428035_V_lowres.tif,ventral,melpomene,cythera,male,ab._modesta,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428036,10428036_D_lowres.tif,dorsal,melpomene,cythera,male,ab._modesta,,hybrid,0,Perene Rio PER JU,-11.15,-74.3
+10428036,10428036_V_lowres.tif,ventral,melpomene,cythera,male,ab._modesta,,hybrid,0,Perene Rio PER JU,-11.15,-74.3
+10428037,10428037_D_lowres.tif,dorsal,melpomene,cythera,male,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428037,10428037_V_lowres.tif,ventral,melpomene,cythera,male,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428038,10428038_D_lowres.tif,dorsal,melpomene,cythera,male,vulcanus_sticheli,,hybrid,0,Bogota COL CU,,
+10428038,10428038_V_lowres.tif,ventral,melpomene,cythera,male,vulcanus_sticheli,,hybrid,0,Bogota COL CU,,
+10428039,10428039_D_lowres.tif,dorsal,melpomene,cythera,male,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428039,10428039_V_lowres.tif,ventral,melpomene,cythera,male,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428040,10428040_D_lowres.tif,dorsal,melpomene,cythera,male,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428040,10428040_V_lowres.tif,ventral,melpomene,cythera,male,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428041,10428041_D_lowres.tif,dorsal,melpomene,cythera,male,vulcanus_sticheli,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428041,10428041_V_lowres.tif,ventral,melpomene,cythera,male,vulcanus_sticheli,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428042,10428042_D_lowres.tif,dorsal,melpomene,cythera,male,vulcanus_sticheli,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428042,10428042_V_lowres.tif,ventral,melpomene,cythera,male,vulcanus_sticheli,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428044,10428044_D_lowres.tif,dorsal,melpomene,cythera,male,vulcanus_sticheli,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428044,10428044_V_lowres.tif,ventral,melpomene,cythera,male,vulcanus_sticheli,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428047,10428047_D_lowres.tif,dorsal,melpomene,cythera,female,ab._modesta,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428047,10428047_V_lowres.tif,ventral,melpomene,cythera,female,ab._modesta,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428048,10428048_D_lowres.tif,dorsal,melpomene,cythera,female,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428048,10428048_V_lowres.tif,ventral,melpomene,cythera,female,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428049,10428049_D_lowres.tif,dorsal,melpomene,cythera,female,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428049,10428049_V_lowres.tif,ventral,melpomene,cythera,female,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428050,10428050_D_lowres.tif,dorsal,melpomene,cythera,female,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428050,10428050_V_lowres.tif,ventral,melpomene,cythera,female,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428051,10428051_D_lowres.tif,dorsal,melpomene,cythera,female,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428051,10428051_V_lowres.tif,ventral,melpomene,cythera,female,vulcanus_sticheli,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428052,10428052_D_lowres.tif,dorsal,melpomene,cythera,female,vulcanus_sticheli,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428052,10428052_V_lowres.tif,ventral,melpomene,cythera,female,vulcanus_sticheli,ST,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428072,10428072_D_lowres.tif,dorsal,melpomene,xenoclea,male,var._confluens_hyb.,ST,hybrid,0,Chanchamayo PER JU,-11.06666667,-75.31666667
+10428072,10428072_V_lowres.tif,ventral,melpomene,xenoclea,male,var._confluens_hyb.,ST,hybrid,0,Chanchamayo PER JU,-11.06666667,-75.31666667
+10428074,10428074_D_lowres.tif,dorsal,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,Perene Rio PER JU,-11.15,-74.3
+10428074,10428074_V_lowres.tif,ventral,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,Perene Rio PER JU,-11.15,-74.3
+10428075,10428075_D_lowres.tif,dorsal,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,La Merced  PER JU,-11.05,-75.31666667
+10428075,10428075_V_lowres.tif,ventral,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,La Merced  PER JU,-11.05,-75.31666667
+10428076,10428076_D_lowres.tif,dorsal,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,Inca Perene PER JU,-10.88333333,-75.21666667
+10428076,10428076_V_lowres.tif,ventral,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,Inca Perene PER JU,-10.88333333,-75.21666667
+10428077,10428077_D_lowres.tif,dorsal,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,Tono Rio PER CU,-12.91666667,-71.4
+10428077,10428077_V_lowres.tif,ventral,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,Tono Rio PER CU,-12.91666667,-71.4
+10428078,10428078_D_lowres.tif,dorsal,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,Tono Rio PER CU,-12.91666667,-71.4
+10428078,10428078_V_lowres.tif,ventral,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,Tono Rio PER CU,-12.91666667,-71.4
+10428079,10428079_D_lowres.tif,dorsal,melpomene,xenoclea,male,var._confluens_hyb.,ST,hybrid,0,Pichis Road PER PA,-10.25,-74.75
+10428079,10428079_V_lowres.tif,ventral,melpomene,xenoclea,male,var._confluens_hyb.,ST,hybrid,0,Pichis Road PER PA,-10.25,-74.75
+10428080,10428080_D_lowres.tif,dorsal,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,Tono Rio PER CU,-12.91666667,-71.4
+10428080,10428080_V_lowres.tif,ventral,melpomene,xenoclea,male,var._confluens_hyb.,,hybrid,0,Tono Rio PER CU,-12.91666667,-71.4
+10428108,10428108_D_lowres.tif,dorsal,melpomene,xenoclea,male,var._superba_hyb.,HT,hybrid,0,Colorado Rio PER JU,-10.96083333,-75.315
+10428108,10428108_V_lowres.tif,ventral,melpomene,xenoclea,male,var._superba_hyb.,HT,hybrid,0,Colorado Rio PER JU,-10.96083333,-75.315
+10428111,10428111_D_lowres.tif,dorsal,melpomene,aglaope,male,f._rubescens_hyb.,HT,hybrid,0,Chuchurras PER PA,-10.15,-75.23333333
+10428111,10428111_V_lowres.tif,ventral,melpomene,aglaope,male,f._rubescens_hyb.,HT,hybrid,0,Chuchurras PER PA,-10.15,-75.23333333
+10428112,10428112_D_lowres.tif,dorsal,melpomene,aglaope,male,f._rubescens_hyb.,,hybrid,0,Umaripuniz Rio PER PA,-10.31666667,-75.38333333
+10428112,10428112_V_lowres.tif,ventral,melpomene,aglaope,male,f._rubescens_hyb.,,hybrid,0,Umaripuniz Rio PER PA,-10.31666667,-75.38333333
+10428113,10428113_D_lowres.tif,dorsal,melpomene,aglaope,female,f._rubescens_hyb.,,hybrid,0,Huancabamba PER PA,-10.38333333,-75.55
+10428113,10428113_V_lowres.tif,ventral,melpomene,aglaope,female,f._rubescens_hyb.,,hybrid,0,Huancabamba PER PA,-10.38333333,-75.55
+10428123,10428123_D_lowres.tif,dorsal,melpomene,aglaope,female,riffarthi_hyb.,ST,hybrid,0,Ucayali Rio PER LO,-4.466666667,-73.51666667
+10428123,10428123_V_lowres.tif,ventral,melpomene,aglaope,female,riffarthi_hyb.,ST,hybrid,0,Ucayali Rio PER LO,-4.466666667,-73.51666667
+10428129,10428129_D_lowres.tif,dorsal,melpomene,amaryllis,male,melpophylla_hyb.,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10428129,10428129_V_lowres.tif,ventral,melpomene,amaryllis,male,melpophylla_hyb.,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10428130,10428130_D_lowres.tif,dorsal,melpomene,amaryllis,male,melpophylla_hyb.,,hybrid,0,Huambo PER AM,-6.566666667,-77.38333333
+10428130,10428130_V_lowres.tif,ventral,melpomene,amaryllis,male,melpophylla_hyb.,,hybrid,0,Huambo PER AM,-6.566666667,-77.38333333
+10428131,10428131_D_lowres.tif,dorsal,melpomene,amaryllis,male,melpophylla_hyb.,,hybrid,0,San Antonio de Cumbasa PER SM,-6.416666667,-76.4
+10428131,10428131_V_lowres.tif,ventral,melpomene,amaryllis,male,melpophylla_hyb.,,hybrid,0,San Antonio de Cumbasa PER SM,-6.416666667,-76.4
+10428132,10428132_D_lowres.tif,dorsal,melpomene,amaryllis,male,amaryllis_transitional,,hybrid,0,Ashpiyaco ECD,-1.583333333,-77.75
+10428132,10428132_V_lowres.tif,ventral,melpomene,amaryllis,male,amaryllis_transitional,,hybrid,0,Ashpiyaco ECD,-1.583333333,-77.75
+10428133,10428133_D_lowres.tif,dorsal,melpomene,amaryllis,female,melpophylla_hyb.,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10428133,10428133_V_lowres.tif,ventral,melpomene,amaryllis,female,melpophylla_hyb.,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10428134,10428134_D_lowres.tif,dorsal,melpomene,amaryllis,female,melpophylla_hyb.,HT,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428134,10428134_V_lowres.tif,ventral,melpomene,amaryllis,female,melpophylla_hyb.,HT,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428135,10428135_D_lowres.tif,dorsal,melpomene,amaryllis,female,amaryllis_transitional,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10428135,10428135_V_lowres.tif,ventral,melpomene,amaryllis,female,amaryllis_transitional,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10428150,10428150_D_lowres.tif,dorsal,melpomene,plesseni,female,f._diadema,,hybrid,0,Alpayacu ECD PA,-1.466666667,-78.11666667
+10428150,10428150_V_lowres.tif,ventral,melpomene,plesseni,female,f._diadema,,hybrid,0,Alpayacu ECD PA,-1.466666667,-78.11666667
+10428179,10428179_D_lowres.tif,dorsal,melpomene,plesseni,male,f._adonis,,hybrid,0,Alpayacu ECD PA,-1.466666667,-78.11666667
+10428179,10428179_V_lowres.tif,ventral,melpomene,plesseni,male,f._adonis,,hybrid,0,Alpayacu ECD PA,-1.466666667,-78.11666667
+10428180,10428180_D_lowres.tif,dorsal,melpomene,plesseni,male,f._adonis,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428180,10428180_V_lowres.tif,ventral,melpomene,plesseni,male,f._adonis,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428181,10428181_D_lowres.tif,dorsal,melpomene,plesseni,male,f._adonis,,hybrid,0,Balzapamba ECD BO,-1.783333333,-79.16666667
+10428181,10428181_V_lowres.tif,ventral,melpomene,plesseni,male,f._adonis,,hybrid,0,Balzapamba ECD BO,-1.783333333,-79.16666667
+10428182,10428182_D_lowres.tif,dorsal,melpomene,plesseni,male,f._adonis,ST,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428182,10428182_V_lowres.tif,ventral,melpomene,plesseni,male,f._adonis,ST,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428183,10428183_D_lowres.tif,dorsal,melpomene,plesseni,male,f._adonis,ST,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428183,10428183_V_lowres.tif,ventral,melpomene,plesseni,male,f._adonis,ST,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428184,10428184_D_lowres.tif,dorsal,melpomene,plesseni,female,f._adonis,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428184,10428184_V_lowres.tif,ventral,melpomene,plesseni,female,f._adonis,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428185,10428185_D_lowres.tif,dorsal,melpomene,plesseni,female,f._adonis,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428185,10428185_V_lowres.tif,ventral,melpomene,plesseni,female,f._adonis,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428186,10428186_D_lowres.tif,dorsal,melpomene,plesseni,female,f._adonis,ST,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428186,10428186_V_lowres.tif,ventral,melpomene,plesseni,female,f._adonis,ST,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428188,10428188_D_lowres.tif,dorsal,melpomene,plesseni,male,f._clytie_hyb.,HT,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428188,10428188_V_lowres.tif,ventral,melpomene,plesseni,male,f._clytie_hyb.,HT,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428189,10428189_D_lowres.tif,dorsal,melpomene,plesseni,female,f._clytie_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428189,10428189_V_lowres.tif,ventral,melpomene,plesseni,female,f._clytie_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428192,10428192_D_lowres.tif,dorsal,melpomene,plesseni,male,unimaculata,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428192,10428192_V_lowres.tif,ventral,melpomene,plesseni,male,unimaculata,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428193,10428193_D_lowres.tif,dorsal,melpomene,plesseni,male,unimaculata,ST,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428193,10428193_V_lowres.tif,ventral,melpomene,plesseni,male,unimaculata,ST,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428194,10428194_D_lowres.tif,dorsal,melpomene,plesseni,male,unimaculata,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428194,10428194_V_lowres.tif,ventral,melpomene,plesseni,male,unimaculata,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428195,10428195_D_lowres.tif,dorsal,melpomene,plesseni,male,unimaculata,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428195,10428195_V_lowres.tif,ventral,melpomene,plesseni,male,unimaculata,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428196,10428196_D_lowres.tif,dorsal,melpomene,plesseni,male,f._niepelti,ST,hybrid,0,Pastaza Rio Upper ECD PA,-1.538391667,-78.06732222
+10428196,10428196_V_lowres.tif,ventral,melpomene,plesseni,male,f._niepelti,ST,hybrid,0,Pastaza Rio Upper ECD PA,-1.538391667,-78.06732222
+10428200,10428200_D_lowres.tif,dorsal,melpomene,malleti,male,f._iris_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428200,10428200_V_lowres.tif,ventral,melpomene,malleti,male,f._iris_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428201,10428201_D_lowres.tif,dorsal,melpomene,malleti,male,f._iris_hyb.,HT,hybrid,0,Pastaza Rio Upper ECD PA,-1.538391667,-78.06732222
+10428201,10428201_V_lowres.tif,ventral,melpomene,malleti,male,f._iris_hyb.,HT,hybrid,0,Pastaza Rio Upper ECD PA,-1.538391667,-78.06732222
+10428202,10428202_D_lowres.tif,dorsal,melpomene,malleti,male,f._adonides_hyb.,,hybrid,0,Balzapamba ECD BO,-1.783333333,-79.16666667
+10428202,10428202_V_lowres.tif,ventral,melpomene,malleti,male,f._adonides_hyb.,,hybrid,0,Balzapamba ECD BO,-1.783333333,-79.16666667
+10428203,10428203_D_lowres.tif,dorsal,melpomene,malleti,male,f._adonides_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428203,10428203_V_lowres.tif,ventral,melpomene,malleti,male,f._adonides_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428204,10428204_D_lowres.tif,dorsal,melpomene,malleti,male,f._adonides_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428204,10428204_V_lowres.tif,ventral,melpomene,malleti,male,f._adonides_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428205,10428205_D_lowres.tif,dorsal,melpomene,malleti,female,f._adonides_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428205,10428205_V_lowres.tif,ventral,melpomene,malleti,female,f._adonides_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428206,10428206_D_lowres.tif,dorsal,melpomene,malleti,female,f._adonides_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428206,10428206_V_lowres.tif,ventral,melpomene,malleti,female,f._adonides_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428207,10428207_D_lowres.tif,dorsal,melpomene,malleti,male,f._isolda_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428207,10428207_V_lowres.tif,ventral,melpomene,malleti,male,f._isolda_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428208,10428208_D_lowres.tif,dorsal,melpomene,malleti,male,f._isolda_hyb.,ST,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428208,10428208_V_lowres.tif,ventral,melpomene,malleti,male,f._isolda_hyb.,ST,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428209,10428209_D_lowres.tif,dorsal,melpomene,malleti,male,f._isolda_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428209,10428209_V_lowres.tif,ventral,melpomene,malleti,male,f._isolda_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428210,10428210_D_lowres.tif,dorsal,melpomene,malleti,male,f._isolda_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428210,10428210_V_lowres.tif,ventral,melpomene,malleti,male,f._isolda_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428211,10428211_D_lowres.tif,dorsal,melpomene,malleti,female,f._isolda_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428211,10428211_V_lowres.tif,ventral,melpomene,malleti,female,f._isolda_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428212,10428212_D_lowres.tif,dorsal,melpomene,malleti,female,f._isolda_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428212,10428212_V_lowres.tif,ventral,melpomene,malleti,female,f._isolda_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428213,10428213_D_lowres.tif,dorsal,melpomene,malleti,male,f._anna_hyb,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428213,10428213_V_lowres.tif,ventral,melpomene,malleti,male,f._anna_hyb,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428214,10428214_D_lowres.tif,dorsal,melpomene,malleti,female,f._gratiosa_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428214,10428214_V_lowres.tif,ventral,melpomene,malleti,female,f._gratiosa_hyb.,,hybrid,0,Canelos ECD PA,-1.583333333,-77.75
+10428280,10428280_D_lowres.tif,dorsal,melpomene,aglaope,male,xenoclea_x_cognatus_hyb.,,hybrid,0,Umaripuniz Rio PER PA,-10.31666667,-75.38333333
+10428280,10428280_V_lowres.tif,ventral,melpomene,aglaope,male,xenoclea_x_cognatus_hyb.,,hybrid,0,Umaripuniz Rio PER PA,-10.31666667,-75.38333333
+10428287,10428287_D_lowres.tif,dorsal,melpomene,amandus,male,penelope_f._amandoides_hyb.,ST,hybrid,0,Coast of Colombia COL,,
+10428287,10428287_V_lowres.tif,ventral,melpomene,amandus,male,penelope_f._amandoides_hyb.,ST,hybrid,0,Coast of Colombia COL,,
+10428288,10428288_D_lowres.tif,dorsal,melpomene,amandus,male,penelope_f._amandoides_hyb.,,hybrid,0,Buenavista BOL SC,-17.45,-64.66666667
+10428288,10428288_V_lowres.tif,ventral,melpomene,amandus,male,penelope_f._amandoides_hyb.,,hybrid,0,Buenavista BOL SC,-17.45,-64.66666667
+10428289,10428289_D_lowres.tif,dorsal,melpomene,amandus,male,penelope_f._amandoides_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428289,10428289_V_lowres.tif,ventral,melpomene,amandus,male,penelope_f._amandoides_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428290,10428290_D_lowres.tif,dorsal,melpomene,amandus,male,penelope_f._amandoides_hyb.,,hybrid,0,Buenavista BOL SC,-17.45,-64.66666667
+10428290,10428290_V_lowres.tif,ventral,melpomene,amandus,male,penelope_f._amandoides_hyb.,,hybrid,0,Buenavista BOL SC,-17.45,-64.66666667
+10428291,10428291_D_lowres.tif,dorsal,melpomene,amandus,male,nr._aphrodyte_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428291,10428291_V_lowres.tif,ventral,melpomene,amandus,male,nr._aphrodyte_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428292,10428292_D_lowres.tif,dorsal,melpomene,amandus,male,nr._aphrodyte_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428292,10428292_V_lowres.tif,ventral,melpomene,amandus,male,nr._aphrodyte_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428293,10428293_D_lowres.tif,dorsal,melpomene,amandus,male,nr._aphrodyte_hyb.,,hybrid,0,Cochabamba BOL CO,,
+10428293,10428293_V_lowres.tif,ventral,melpomene,amandus,male,nr._aphrodyte_hyb.,,hybrid,0,Cochabamba BOL CO,,
+10428294,10428294_D_lowres.tif,dorsal,melpomene,amandus,male,nr._aphrodyte_hyb.,,hybrid,0,Sara Prov BOL SC,-16.83333333,-63.91666667
+10428294,10428294_V_lowres.tif,ventral,melpomene,amandus,male,nr._aphrodyte_hyb.,,hybrid,0,Sara Prov BOL SC,-16.83333333,-63.91666667
+10428295,10428295_D_lowres.tif,dorsal,melpomene,amandus,male,aphrodyte_hyb.,,hybrid,0,Cochabamba BOL CO,,
+10428295,10428295_V_lowres.tif,ventral,melpomene,amandus,male,aphrodyte_hyb.,,hybrid,0,Cochabamba BOL CO,,
+10428296,10428296_D_lowres.tif,dorsal,melpomene,amandus,male,aphrodyte_hyb.,,hybrid,0,Cochabamba BOL CO,,
+10428296,10428296_V_lowres.tif,ventral,melpomene,amandus,male,aphrodyte_hyb.,,hybrid,0,Cochabamba BOL CO,,
+10428297,10428297_D_lowres.tif,dorsal,melpomene,amandus,female,nr._aphrodyte_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428297,10428297_V_lowres.tif,ventral,melpomene,amandus,female,nr._aphrodyte_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428298,10428298_D_lowres.tif,dorsal,melpomene,amandus,female,nr._aphrodyte_hyb.,,hybrid,0,Colombia  COUNTRY,,
+10428298,10428298_V_lowres.tif,ventral,melpomene,amandus,female,nr._aphrodyte_hyb.,,hybrid,0,Colombia  COUNTRY,,
+10428299,10428299_D_lowres.tif,dorsal,melpomene,amandus,female,nr._aphrodyte_hyb.,,hybrid,0,Carmen (Rio Madidi) BOL,-13.3,-70.3
+10428299,10428299_V_lowres.tif,ventral,melpomene,amandus,female,nr._aphrodyte_hyb.,,hybrid,0,Carmen (Rio Madidi) BOL,-13.3,-70.3
+10428300,10428300_D_lowres.tif,dorsal,melpomene,amandus,female,nr._aphrodyte_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428300,10428300_V_lowres.tif,ventral,melpomene,amandus,female,nr._aphrodyte_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428301,10428301_D_lowres.tif,dorsal,melpomene,amandus,female,nr._aphrodyte_hyb.,,hybrid,0,Bueyes BOL SC,-17.8,-63.16666667
+10428301,10428301_V_lowres.tif,ventral,melpomene,amandus,female,nr._aphrodyte_hyb.,,hybrid,0,Bueyes BOL SC,-17.8,-63.16666667
+10428311,10428311_D_lowres.tif,dorsal,melpomene,burchelli,male,f._curvifascia_hyb.,,hybrid,0,Colombia COUNTRY,,
+10428311,10428311_V_lowres.tif,ventral,melpomene,burchelli,male,f._curvifascia_hyb.,,hybrid,0,Colombia COUNTRY,,
+10428315,10428315_D_lowres.tif,dorsal,melpomene,penelope,female,f._obscurifascia_hyb.,HT,hybrid,0,Melguira BRA MO,-14.53333333,-56.31666667
+10428315,10428315_V_lowres.tif,ventral,melpomene,penelope,female,f._obscurifascia_hyb.,HT,hybrid,0,Melguira BRA MO,-14.53333333,-56.31666667
+10428364,10428364_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cayenne FRG CY,4.933333333,-52.33333333
+10428364,10428364_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cayenne FRG CY,4.933333333,-52.33333333
+10428377,10428377_D_lowres.tif,dorsal,melpomene,melpomene,male,eltringhami_hyb.,HT,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428377,10428377_V_lowres.tif,ventral,melpomene,melpomene,male,eltringhami_hyb.,HT,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428378,10428378_D_lowres.tif,dorsal,melpomene,melpomene,male,f._luteipicta_hyb.,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428378,10428378_V_lowres.tif,ventral,melpomene,melpomene,male,f._luteipicta_hyb.,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428379,10428379_D_lowres.tif,dorsal,melpomene,malleti,male,f._luteipicta_hyb.,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428379,10428379_V_lowres.tif,ventral,melpomene,malleti,male,f._luteipicta_hyb.,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428380,10428380_D_lowres.tif,dorsal,melpomene,melpomene,male,f._luteipicta_hyb.,ST,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428380,10428380_V_lowres.tif,ventral,melpomene,melpomene,male,f._luteipicta_hyb.,ST,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428381,10428381_D_lowres.tif,dorsal,melpomene,melpomene,female,f._luteipicta_hyb.,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428381,10428381_V_lowres.tif,ventral,melpomene,melpomene,female,f._luteipicta_hyb.,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428382,10428382_D_lowres.tif,dorsal,melpomene,melpomene,female,f._luteipicta_hyb.,,hybrid,0,Godebert - Maroni FRG,5.516666667,-53.96666667
+10428382,10428382_V_lowres.tif,ventral,melpomene,melpomene,female,f._luteipicta_hyb.,,hybrid,0,Godebert - Maroni FRG,5.516666667,-53.96666667
+10428383,10428383_D_lowres.tif,dorsal,melpomene,melpomene,female,f._luteipicta_hyb.,ST,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428383,10428383_V_lowres.tif,ventral,melpomene,melpomene,female,f._luteipicta_hyb.,ST,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428384,10428384_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._primus_hyb.,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428384,10428384_V_lowres.tif,ventral,melpomene,melpomene,male,ab._primus_hyb.,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428386,10428386_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._primus_hyb.,HT,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428386,10428386_V_lowres.tif,ventral,melpomene,melpomene,male,ab._primus_hyb.,HT,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428387,10428387_D_lowres.tif,dorsal,melpomene,melpomene,female,ab._primus_hyb.,,hybrid,0,Colombia COUNTRY,,
+10428387,10428387_V_lowres.tif,ventral,melpomene,melpomene,female,ab._primus_hyb.,,hybrid,0,Colombia COUNTRY,,
+10428388,10428388_D_lowres.tif,dorsal,melpomene,melpomene,female,ab._primus_hyb.,,hybrid,0,Colombia COUNTRY,,
+10428388,10428388_V_lowres.tif,ventral,melpomene,melpomene,female,ab._primus_hyb.,,hybrid,0,Colombia COUNTRY,,
+10428389,10428389_D_lowres.tif,dorsal,melpomene,melpomene,female,ab._primus_hyb.,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428389,10428389_V_lowres.tif,ventral,melpomene,melpomene,female,ab._primus_hyb.,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428390,10428390_D_lowres.tif,dorsal,melpomene,melpomene,female,ab._primus_hyb.,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428390,10428390_V_lowres.tif,ventral,melpomene,melpomene,female,ab._primus_hyb.,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428391,10428391_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._collis,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428391,10428391_V_lowres.tif,ventral,melpomene,melpomene,male,ab._collis,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428392,10428392_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._collis,,hybrid,0,Godebert - Maroni FRG,5.516666667,-53.96666667
+10428392,10428392_V_lowres.tif,ventral,melpomene,melpomene,male,ab._collis,,hybrid,0,Godebert - Maroni FRG,5.516666667,-53.96666667
+10428393,10428393_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._collis,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428393,10428393_V_lowres.tif,ventral,melpomene,melpomene,male,ab._collis,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428394,10428394_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._collis,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428394,10428394_V_lowres.tif,ventral,melpomene,melpomene,male,ab._collis,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428395,10428395_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._collis,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428395,10428395_V_lowres.tif,ventral,melpomene,melpomene,male,ab._collis,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428396,10428396_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._collis,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428396,10428396_V_lowres.tif,ventral,melpomene,melpomene,male,ab._collis,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428397,10428397_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._collis,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428397,10428397_V_lowres.tif,ventral,melpomene,melpomene,male,ab._collis,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428398,10428398_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._collis,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428398,10428398_V_lowres.tif,ventral,melpomene,melpomene,male,ab._collis,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428399,10428399_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._collis,HT,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428399,10428399_V_lowres.tif,ventral,melpomene,melpomene,male,ab._collis,HT,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428400,10428400_D_lowres.tif,dorsal,melpomene,melpomene,female,ab._collis,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428400,10428400_V_lowres.tif,ventral,melpomene,melpomene,female,ab._collis,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428401,10428401_D_lowres.tif,dorsal,melpomene,melpomene,female,ab._collis,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428401,10428401_V_lowres.tif,ventral,melpomene,melpomene,female,ab._collis,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428402,10428402_D_lowres.tif,dorsal,melpomene,melpomene,female,ab._collis,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428402,10428402_V_lowres.tif,ventral,melpomene,melpomene,female,ab._collis,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428403,10428403_D_lowres.tif,dorsal,melpomene,melpomene,female,ab._collis,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428403,10428403_V_lowres.tif,ventral,melpomene,melpomene,female,ab._collis,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428404,10428404_D_lowres.tif,dorsal,melpomene,melpomene,female,ab._collis,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428404,10428404_V_lowres.tif,ventral,melpomene,melpomene,female,ab._collis,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428438,10428438_D_lowres.tif,dorsal,melpomene,melpomene,male,ab._karschi,,hybrid,0,Suapure Rio VEN BO,7.233333333,-65.16666667
+10428438,10428438_V_lowres.tif,ventral,melpomene,melpomene,male,ab._karschi,,hybrid,0,Suapure Rio VEN BO,7.233333333,-65.16666667
+10428442,10428442_D_lowres.tif,dorsal,melpomene,melpomene,female,ab._karschi,,hybrid,0,Tapajos BRA PA,-4.268889,-55.986111
+10428442,10428442_V_lowres.tif,ventral,melpomene,melpomene,female,ab._karschi,,hybrid,0,Tapajos BRA PA,-4.268889,-55.986111
+10428443,10428443_D_lowres.tif,dorsal,melpomene,melpomene,female,var._hippolyte_hyb.,,hybrid,0,Cuyaba- Coramba River system,-17.316667,-56.7
+10428443,10428443_V_lowres.tif,ventral,melpomene,melpomene,female,var._hippolyte_hyb.,,hybrid,0,Cuyaba- Coramba River system,-17.316667,-56.7
+10428444,10428444_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system,-17.316667,-56.7
+10428444,10428444_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system,-17.316667,-56.7
+10428445,10428445_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428445,10428445_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428446,10428446_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Onaca COL MA,11.18333333,-74.06666667
+10428446,10428446_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Onaca COL MA,11.18333333,-74.06666667
+10428447,10428447_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Greytown NIC,10.91666667,-83.7
+10428447,10428447_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Greytown NIC,10.91666667,-83.7
+10428448,10428448_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Pueblo Viejo COL MA,10.98333333,-73.45
+10428448,10428448_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Pueblo Viejo COL MA,10.98333333,-73.45
+10428449,10428449_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Muzo COL BY,5.533333333,-74.1
+10428449,10428449_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Muzo COL BY,5.533333333,-74.1
+10428450,10428450_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cananche COL BY,5.588333333,-74.28611111
+10428450,10428450_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cananche COL BY,5.588333333,-74.28611111
+10428451,10428451_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428451,10428451_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428452,10428452_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Tucurinca COL MA,10.65,-74.16666667
+10428452,10428452_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Tucurinca COL MA,10.65,-74.16666667
+10428453,10428453_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Botero COL AN,6.533333333,-75.25
+10428453,10428453_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Botero COL AN,6.533333333,-75.25
+10428454,10428454_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Onaca COL MA,11.18333333,-74.06666667
+10428454,10428454_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Onaca COL MA,11.18333333,-74.06666667
+10428455,10428455_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,El Banco COL MA,9.016666667,-73.98333333
+10428455,10428455_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,El Banco COL MA,9.016666667,-73.98333333
+10428456,10428456_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Muzo COL BY,5.533333333,-74.1
+10428456,10428456_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Muzo COL BY,5.533333333,-74.1
+10428457,10428457_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428457,10428457_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428458,10428458_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Peperital - Buenavista COL ME,4.162222222,-73.663275
+10428458,10428458_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Peperital - Buenavista COL ME,4.162222222,-73.663275
+10428459,10428459_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Villavicencio COL ME,4.15,-73.63333333
+10428459,10428459_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Villavicencio COL ME,4.15,-73.63333333
+10428460,10428460_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Chili Rio COL TO,4.119722222,-75.25944444
+10428460,10428460_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Chili Rio COL TO,4.119722222,-75.25944444
+10428461,10428461_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,San Martin COL ME,3.7,-73.7
+10428461,10428461_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,San Martin COL ME,3.7,-73.7
+10428462,10428462_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428462,10428462_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428463,10428463_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,El Campano COL MA,11.11432222,-74.09986111
+10428463,10428463_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,El Campano COL MA,11.11432222,-74.09986111
+10428464,10428464_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Botero COL AN,6.533333333,-75.25
+10428464,10428464_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Botero COL AN,6.533333333,-75.25
+10428465,10428465_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Crystallina COL AN,6.416666667,-74.58333333
+10428465,10428465_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Crystallina COL AN,6.416666667,-74.58333333
+10428466,10428466_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,"Rio Guachaca, COL MA",11.26666667,-73.81666667
+10428466,10428466_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,"Rio Guachaca, COL MA",11.26666667,-73.81666667
+10428467,10428467_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,San Pablo COL CH,5.216666667,-76.65
+10428467,10428467_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,San Pablo COL CH,5.216666667,-76.65
+10428468,10428468_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cananche COL BY,5.588333333,-74.28611111
+10428468,10428468_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_hyb.,,hybrid,0,Cananche COL BY,5.588333333,-74.28611111
+10428470,10428470_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Peperital - Buenavista COL ME,4.162222222,-73.663275
+10428470,10428470_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Peperital - Buenavista COL ME,4.162222222,-73.663275
+10428471,10428471_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428471,10428471_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428472,10428472_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Pueblo Bello COL EC,10.41666667,-73.58333333
+10428472,10428472_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Pueblo Bello COL EC,10.41666667,-73.58333333
+10428473,10428473_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Colombiana CRI LI,10.16666667,-83.57666667
+10428473,10428473_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,Colombiana CRI LI,10.16666667,-83.57666667
+10428474,10428474_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,"Rio Guachaca, COL MA",11.26666667,-73.81666667
+10428474,10428474_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_hyb.,,hybrid,0,"Rio Guachaca, COL MA",11.26666667,-73.81666667
+10428475,10428475_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_part.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428475,10428475_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_part.,,hybrid,0,Cuyaba- Coramba River system BRA MG,-17.316667,-56.7
+10428476,10428476_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_part.,,hybrid,0,Muzo COL BY,5.533333333,-74.1
+10428476,10428476_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_part.,,hybrid,0,Muzo COL BY,5.533333333,-74.1
+10428477,10428477_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_part.,,hybrid,0,Ecuador  COUNTRY,,
+10428477,10428477_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_part.,,hybrid,0,Ecuador  COUNTRY,,
+10428478,10428478_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_part.,,hybrid,0,Canon del Tolima COL,4.65,-75.37
+10428478,10428478_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_part.,,hybrid,0,Canon del Tolima COL,4.65,-75.37
+10428479,10428479_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_part.,,hybrid,0,Ecuador  COUNTRY,,
+10428479,10428479_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_part.,,hybrid,0,Ecuador  COUNTRY,,
+10428480,10428480_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_part.,,hybrid,0,Chili Rio COL TO,4.119722222,-75.25944444
+10428480,10428480_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_part.,,hybrid,0,Chili Rio COL TO,4.119722222,-75.25944444
+10428481,10428481_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_part.,,hybrid,0,San Martin COL ME,3.7,-73.7
+10428481,10428481_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_part.,,hybrid,0,San Martin COL ME,3.7,-73.7
+10428482,10428482_D_lowres.tif,dorsal,melpomene,vulcanus,male,f._fumosa_part.,,hybrid,0,Ecuador  COUNTRY,,
+10428482,10428482_V_lowres.tif,ventral,melpomene,vulcanus,male,f._fumosa_part.,,hybrid,0,Ecuador  COUNTRY,,
+10428483,10428483_D_lowres.tif,dorsal,melpomene,vulcanus,female,f._fumosa_part.,,hybrid,0,Fusagasuga COL CN,4.35,-74.36666667
+10428483,10428483_V_lowres.tif,ventral,melpomene,vulcanus,female,f._fumosa_part.,,hybrid,0,Fusagasuga COL CN,4.35,-74.36666667
+10428491,10428491_D_lowres.tif,dorsal,erato,phyllis,female,f._anaitis_hyb.,HT,hybrid,0,Sara Prov BOL SC,-16.83333333,-63.91666667
+10428491,10428491_V_lowres.tif,ventral,erato,phyllis,female,f._anaitis_hyb.,HT,hybrid,0,Sara Prov BOL SC,-16.83333333,-63.91666667
+10428492,10428492_D_lowres.tif,dorsal,erato,phyllis,male,f._anaitis_hyb.,,hybrid,0,Ecuador  COUNTRY,,
+10428492,10428492_V_lowres.tif,ventral,erato,phyllis,male,f._anaitis_hyb.,,hybrid,0,Ecuador  COUNTRY,,
+10428493,10428493_D_lowres.tif,dorsal,erato,phyllis,male,f._anaitis_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428493,10428493_V_lowres.tif,ventral,erato,phyllis,male,f._anaitis_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428505,10428505_D_lowres.tif,dorsal,erato,amphitrite,male,f._sperata_hyb.,ST,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428505,10428505_V_lowres.tif,ventral,erato,amphitrite,male,f._sperata_hyb.,ST,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428506,10428506_D_lowres.tif,dorsal,erato,amphitrite,male,f._sperata_hyb.,,hybrid,0,Buenavista BOL SC,-17.45,-64.66666667
+10428506,10428506_V_lowres.tif,ventral,erato,amphitrite,male,f._sperata_hyb.,,hybrid,0,Buenavista BOL SC,-17.45,-64.66666667
+10428508,10428508_D_lowres.tif,dorsal,erato,phyllis,female,amatus,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428508,10428508_V_lowres.tif,ventral,erato,phyllis,female,amatus,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428509,10428509_D_lowres.tif,dorsal,erato,phyllis,female,amatus,,hybrid,0,Buenavista BOL SC,-17.45,-64.66666667
+10428509,10428509_V_lowres.tif,ventral,erato,phyllis,female,amatus,,hybrid,0,Buenavista BOL SC,-17.45,-64.66666667
+10428510,10428510_D_lowres.tif,dorsal,erato,amphitrite,female,f._sperata_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428510,10428510_V_lowres.tif,ventral,erato,amphitrite,female,f._sperata_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428511,10428511_D_lowres.tif,dorsal,erato,amphitrite,female,f._sperata_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428511,10428511_V_lowres.tif,ventral,erato,amphitrite,female,f._sperata_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428512,10428512_D_lowres.tif,dorsal,erato,amphitrite,female,f._sperata_hyb.,ST,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428512,10428512_V_lowres.tif,ventral,erato,amphitrite,female,f._sperata_hyb.,ST,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428513,10428513_D_lowres.tif,dorsal,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428513,10428513_V_lowres.tif,ventral,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428514,10428514_D_lowres.tif,dorsal,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428514,10428514_V_lowres.tif,ventral,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428515,10428515_D_lowres.tif,dorsal,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Santa Cruz BOL,-17.8,-63.16666667
+10428515,10428515_V_lowres.tif,ventral,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Santa Cruz BOL,-17.8,-63.16666667
+10428516,10428516_D_lowres.tif,dorsal,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Ecuador  COUNTRY,,
+10428516,10428516_V_lowres.tif,ventral,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Ecuador  COUNTRY,,
+10428517,10428517_D_lowres.tif,dorsal,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Ecuador  COUNTRY,,
+10428517,10428517_V_lowres.tif,ventral,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Ecuador  COUNTRY,,
+10428518,10428518_D_lowres.tif,dorsal,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Ecuador  COUNTRY,,
+10428518,10428518_V_lowres.tif,ventral,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Ecuador  COUNTRY,,
+10428519,10428519_D_lowres.tif,dorsal,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Ecuador  COUNTRY,,
+10428519,10428519_V_lowres.tif,ventral,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Ecuador  COUNTRY,,
+10428520,10428520_D_lowres.tif,dorsal,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428520,10428520_V_lowres.tif,ventral,erato,phyllis,male,f._athene_hyb.,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428521,10428521_D_lowres.tif,dorsal,erato,phyllis,female,f._athene_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428521,10428521_V_lowres.tif,ventral,erato,phyllis,female,f._athene_hyb.,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428522,10428522_D_lowres.tif,dorsal,erato,phyllis,female,f._athene_hyb.,,hybrid,0,Madidi Rio BOL LP,-12.75,-67.25
+10428522,10428522_V_lowres.tif,ventral,erato,phyllis,female,f._athene_hyb.,,hybrid,0,Madidi Rio BOL LP,-12.75,-67.25
+10428525,10428525_D_lowres.tif,dorsal,erato,phyllis,male,amatus,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428525,10428525_V_lowres.tif,ventral,erato,phyllis,male,amatus,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428526,10428526_D_lowres.tif,dorsal,erato,phyllis,male,amatus,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428526,10428526_V_lowres.tif,ventral,erato,phyllis,male,amatus,,hybrid,0,Grande Rio BOL,-17.25,-62.75
+10428527,10428527_D_lowres.tif,dorsal,erato,phyllis,male,amatus,,hybrid,0,Ecuador  COUNTRY,,
+10428527,10428527_V_lowres.tif,ventral,erato,phyllis,male,amatus,,hybrid,0,Ecuador  COUNTRY,,
+10428529,10428529_D_lowres.tif,dorsal,erato,amphitrite,male,f._sperata_hyb.,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428529,10428529_V_lowres.tif,ventral,erato,amphitrite,male,f._sperata_hyb.,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428531,10428531_D_lowres.tif,dorsal,erato,amphitrite,male,f._sperata_hyb.,,hybrid,0,Sara Prov BOL SC,-16.83333333,-63.91666667
+10428531,10428531_V_lowres.tif,ventral,erato,amphitrite,male,f._sperata_hyb.,,hybrid,0,Sara Prov BOL SC,-16.83333333,-63.91666667
+10428532,10428532_D_lowres.tif,dorsal,erato,phyllis,male,amatus,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428532,10428532_V_lowres.tif,ventral,erato,phyllis,male,amatus,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428539,10428539_D_lowres.tif,dorsal,erato,phyllis,male,anacreon,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428539,10428539_V_lowres.tif,ventral,erato,phyllis,male,anacreon,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428540,10428540_D_lowres.tif,dorsal,erato,phyllis,male,anacreon,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428540,10428540_V_lowres.tif,ventral,erato,phyllis,male,anacreon,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428541,10428541_D_lowres.tif,dorsal,erato,phyllis,male,anacreon,HT/ST,hybrid,0,Ecuador  COUNTRY,,
+10428541,10428541_V_lowres.tif,ventral,erato,phyllis,male,anacreon,HT/ST,hybrid,0,Ecuador  COUNTRY,,
+10428542,10428542_D_lowres.tif,dorsal,erato,phyllis,male,anacreon,,hybrid,0,Bueyes BOL SC,-17.8,-63.16666667
+10428542,10428542_V_lowres.tif,ventral,erato,phyllis,male,anacreon,,hybrid,0,Bueyes BOL SC,-17.8,-63.16666667
+10428543,10428543_D_lowres.tif,dorsal,erato,phyllis,male,anacreon,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428543,10428543_V_lowres.tif,ventral,erato,phyllis,male,anacreon,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428544,10428544_D_lowres.tif,dorsal,erato,phyllis,male,anacreon,,hybrid,0,Ecuador  COUNTRY,,
+10428544,10428544_V_lowres.tif,ventral,erato,phyllis,male,anacreon,,hybrid,0,Ecuador  COUNTRY,,
+10428545,10428545_D_lowres.tif,dorsal,erato,phyllis,male,anacreon,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428545,10428545_V_lowres.tif,ventral,erato,phyllis,male,anacreon,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428546,10428546_D_lowres.tif,dorsal,erato,phyllis,male,anacreon,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428546,10428546_V_lowres.tif,ventral,erato,phyllis,male,anacreon,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428547,10428547_D_lowres.tif,dorsal,erato,phyllis,male,anacreon,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428547,10428547_V_lowres.tif,ventral,erato,phyllis,male,anacreon,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428548,10428548_D_lowres.tif,dorsal,erato,venustus,male,ab._Ottonis,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428548,10428548_V_lowres.tif,ventral,erato,venustus,male,ab._Ottonis,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428549,10428549_D_lowres.tif,dorsal,erato,venustus,male,ab._Ottonis,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428549,10428549_V_lowres.tif,ventral,erato,venustus,male,ab._Ottonis,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428550,10428550_D_lowres.tif,dorsal,erato,venustus,male,ab._Ottonis,,hybrid,0,Ecuador  COUNTRY,,
+10428550,10428550_V_lowres.tif,ventral,erato,venustus,male,ab._Ottonis,,hybrid,0,Ecuador  COUNTRY,,
+10428551,10428551_D_lowres.tif,dorsal,erato,venustus,male,ab._Ottonis,,hybrid,0,Ecuador  COUNTRY,,
+10428551,10428551_V_lowres.tif,ventral,erato,venustus,male,ab._Ottonis,,hybrid,0,Ecuador  COUNTRY,,
+10428553,10428553_D_lowres.tif,dorsal,erato,phyllis,female,anacreon,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428553,10428553_V_lowres.tif,ventral,erato,phyllis,female,anacreon,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428554,10428554_D_lowres.tif,dorsal,erato,phyllis,female,anacreon,,hybrid,0,Ecuador  COUNTRY,,
+10428554,10428554_V_lowres.tif,ventral,erato,phyllis,female,anacreon,,hybrid,0,Ecuador  COUNTRY,,
+10428555,10428555_D_lowres.tif,dorsal,erato,phyllis,female,anacreon,,hybrid,0,Ecuador  COUNTRY,,
+10428555,10428555_V_lowres.tif,ventral,erato,phyllis,female,anacreon,,hybrid,0,Ecuador  COUNTRY,,
+10428556,10428556_D_lowres.tif,dorsal,erato,venustus,female,ab._Ottonis,,hybrid,0,Reyes BOL EB,-14.31666667,-67.38333333
+10428556,10428556_V_lowres.tif,ventral,erato,venustus,female,ab._Ottonis,,hybrid,0,Reyes BOL EB,-14.31666667,-67.38333333
+10428557,10428557_D_lowres.tif,dorsal,erato,venustus,male,venustus_transitional,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428557,10428557_V_lowres.tif,ventral,erato,venustus,male,venustus_transitional,,hybrid,0,Santa Cruz de la Sierra BOL SC,-17.8,-63.16666667
+10428558,10428558_D_lowres.tif,dorsal,erato,venustus,male,venustus_transitional,,hybrid,0,Juntas Rio BOL SC,-17.3,-64.3
+10428558,10428558_V_lowres.tif,ventral,erato,venustus,male,venustus_transitional,,hybrid,0,Juntas Rio BOL SC,-17.3,-64.3
+10428559,10428559_D_lowres.tif,dorsal,erato,venustus,male,venustus_transitional,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428559,10428559_V_lowres.tif,ventral,erato,venustus,male,venustus_transitional,,hybrid,0,Rio Mamore prov Sara BOL SC,-17.25,-63.75
+10428564,10428564_D_lowres.tif,dorsal,erato,venustus,male,ab._Sanguineus_hyb.,,hybrid,0,Guayaquil ECD,-2.166666667,-79.96666667
+10428564,10428564_V_lowres.tif,ventral,erato,venustus,male,ab._Sanguineus_hyb.,,hybrid,0,Guayaquil ECD,-2.166666667,-79.96666667
+10428565,10428565_D_lowres.tif,dorsal,erato,venustus,male,ab._Sanguineus_hyb.,,hybrid,0,Guayaquil ECD,-2.166666667,-79.96666667
+10428565,10428565_V_lowres.tif,ventral,erato,venustus,male,ab._Sanguineus_hyb.,,hybrid,0,Guayaquil ECD,-2.166666667,-79.96666667
+10428573,10428573_D_lowres.tif,dorsal,erato,amphitrite,male,f._sperata_hyb.,ST,hybrid,0,Guayaquil ECD,-2.166666667,-79.96666667
+10428573,10428573_V_lowres.tif,ventral,erato,amphitrite,male,f._sperata_hyb.,ST,hybrid,0,Guayaquil ECD,-2.166666667,-79.96666667
+10428594,10428594_D_lowres.tif,dorsal,erato,phyllis,male,f._anaitis,,hybrid,0,Sapucay PAR PA,-25.66666667,-56.91666667
+10428594,10428594_V_lowres.tif,ventral,erato,phyllis,male,f._anaitis,,hybrid,0,Sapucay PAR PA,-25.66666667,-56.91666667
+10428640,10428640_D_lowres.tif,dorsal,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428640,10428640_V_lowres.tif,ventral,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428641,10428641_D_lowres.tif,dorsal,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428641,10428641_V_lowres.tif,ventral,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428642,10428642_D_lowres.tif,dorsal,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428642,10428642_V_lowres.tif,ventral,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428643,10428643_D_lowres.tif,dorsal,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428643,10428643_V_lowres.tif,ventral,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428644,10428644_D_lowres.tif,dorsal,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428644,10428644_V_lowres.tif,ventral,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428645,10428645_D_lowres.tif,dorsal,erato,amalfreda,male,f._latiflava,,hybrid,0,Guatil Piris CR ??,-1.583333333,-77.75
+10428645,10428645_V_lowres.tif,ventral,erato,amalfreda,male,f._latiflava,,hybrid,0,Guatil Piris CR ??,-1.583333333,-77.75
+10428648,10428648_D_lowres.tif,dorsal,erato,amalfreda,female,ab._leda_hyb,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428648,10428648_V_lowres.tif,ventral,erato,amalfreda,female,ab._leda_hyb,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428649,10428649_D_lowres.tif,dorsal,erato,amalfreda,female,ab._leda_hyb,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428649,10428649_V_lowres.tif,ventral,erato,amalfreda,female,ab._leda_hyb,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428650,10428650_D_lowres.tif,dorsal,erato,amalfreda,female,ab._leda_hyb,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428650,10428650_V_lowres.tif,ventral,erato,amalfreda,female,ab._leda_hyb,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428651,10428651_D_lowres.tif,dorsal,erato,amalfreda,female,ab._leda_hyb,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428651,10428651_V_lowres.tif,ventral,erato,amalfreda,female,ab._leda_hyb,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428652,10428652_D_lowres.tif,dorsal,erato,erato,male,ab._constricta,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428652,10428652_V_lowres.tif,ventral,erato,erato,male,ab._constricta,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428653,10428653_D_lowres.tif,dorsal,erato,erato,male,ab._constricta,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428653,10428653_V_lowres.tif,ventral,erato,erato,male,ab._constricta,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428654,10428654_D_lowres.tif,dorsal,erato,erato,male,ab._constricta,HT,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428654,10428654_V_lowres.tif,ventral,erato,erato,male,ab._constricta,HT,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428659,10428659_D_lowres.tif,dorsal,erato,erato,male,f._albida,HT,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428659,10428659_V_lowres.tif,ventral,erato,erato,male,f._albida,HT,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428667,10428667_D_lowres.tif,dorsal,erato,erato,male,f._fumata,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428667,10428667_V_lowres.tif,ventral,erato,erato,male,f._fumata,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428668,10428668_D_lowres.tif,dorsal,erato,erato,male,f._fumata,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428668,10428668_V_lowres.tif,ventral,erato,erato,male,f._fumata,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428669,10428669_D_lowres.tif,dorsal,erato,erato,male,f._fumata,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428669,10428669_V_lowres.tif,ventral,erato,erato,male,f._fumata,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428670,10428670_D_lowres.tif,dorsal,erato,erato,male,tellus_hyb.,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428670,10428670_V_lowres.tif,ventral,erato,erato,male,tellus_hyb.,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428671,10428671_D_lowres.tif,dorsal,erato,erato,male,tellus_hyb.,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428671,10428671_V_lowres.tif,ventral,erato,erato,male,tellus_hyb.,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428672,10428672_D_lowres.tif,dorsal,erato,erato,male,tellus_hyb.,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428672,10428672_V_lowres.tif,ventral,erato,erato,male,tellus_hyb.,,hybrid,0,Bas Maroni FRG LM,5.25,-54.25
+10428673,10428673_D_lowres.tif,dorsal,erato,erato,male,tellus_hyb.,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428673,10428673_V_lowres.tif,ventral,erato,erato,male,tellus_hyb.,,hybrid,0,Nouveau Chantier FRG LM,5.55,-53.93333333
+10428674,10428674_D_lowres.tif,dorsal,erato,erato,male,tellus_hyb.,,hybrid,0,Roches de Kourou FRG,5.109236111,-52.60560278
+10428674,10428674_V_lowres.tif,ventral,erato,erato,male,tellus_hyb.,,hybrid,0,Roches de Kourou FRG,5.109236111,-52.60560278
+10428675,10428675_D_lowres.tif,dorsal,erato,erato,male,tellus_hyb.,HT,hybrid,0,Cayenne FRG CY,4.933333333,-52.33333333
+10428675,10428675_V_lowres.tif,ventral,erato,erato,male,tellus_hyb.,HT,hybrid,0,Cayenne FRG CY,4.933333333,-52.33333333
+10428676,10428676_D_lowres.tif,dorsal,erato,erato,male,tellus_hyb.,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428676,10428676_V_lowres.tif,ventral,erato,erato,male,tellus_hyb.,,hybrid,0,St Laurent du Maroni FRG LM,5.5,-54.03333333
+10428677,10428677_D_lowres.tif,dorsal,erato,erato,female,f._fumata,,hybrid,0,Maroni Lower FRG,5.25,-54.25
+10428677,10428677_V_lowres.tif,ventral,erato,erato,female,f._fumata,,hybrid,0,Maroni Lower FRG,5.25,-54.25
+10428678,10428678_D_lowres.tif,dorsal,erato,erato,female,f._fumata,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428678,10428678_V_lowres.tif,ventral,erato,erato,female,f._fumata,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428679,10428679_D_lowres.tif,dorsal,erato,erato,female,f._fumata,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428679,10428679_V_lowres.tif,ventral,erato,erato,female,f._fumata,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428680,10428680_D_lowres.tif,dorsal,erato,erato,female,f._fumata,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428680,10428680_V_lowres.tif,ventral,erato,erato,female,f._fumata,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428681,10428681_D_lowres.tif,dorsal,erato,erato,female,tellus_hyb.,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428681,10428681_V_lowres.tif,ventral,erato,erato,female,tellus_hyb.,,hybrid,0,St Jean du Maroni FRG LM,5.4,-54.08333333
+10428682,10428682_D_lowres.tif,dorsal,erato,erato,female,ab._telloides,HT,hybrid,0,Godebert - Maroni FRG,5.516666667,-53.96666667
+10428682,10428682_V_lowres.tif,ventral,ýýýýýý,erato,female,ab._telloides,HT,hybrid,0,Godebert - Maroni FRG,5.516666667,-53.96666667
+10428683,10428683_D_lowres.tif,dorsal,erato,hydara,male,coralii_hyb,,hybrid,0,Maues BRA AM,-3.366666667,-57.71666667
+10428683,10428683_V_lowres.tif,ventral,erato,hydara,male,coralii_hyb,,hybrid,0,Maues BRA AM,-3.366666667,-57.71666667
+10428684,10428684_D_lowres.tif,dorsal,erato,hydara,male,coralii_hyb,,hybrid,0,Juhuty BRA AM,-3.683333333,-56.56666667
+10428684,10428684_V_lowres.tif,ventral,erato,hydara,male,coralii_hyb,,hybrid,0,Juhuty BRA AM,-3.683333333,-56.56666667
+10428685,10428685_D_lowres.tif,dorsal,erato,hydara,male,coralii_hyb,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428685,10428685_V_lowres.tif,ventral,erato,hydara,male,coralii_hyb,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428686,10428686_D_lowres.tif,dorsal,erato,hydara,male,coralii_hyb,,hybrid,0,Cameta BRA PA,-2.25,-49.5
+10428686,10428686_V_lowres.tif,ventral,erato,hydara,male,coralii_hyb,,hybrid,0,Cameta BRA PA,-2.25,-49.5
+10428688,10428688_D_lowres.tif,dorsal,erato,hydara,male,coralii_hyb,ST,hybrid,0,Serpa BRA AM,-3.166666667,-58.26666667
+10428688,10428688_V_lowres.tif,ventral,erato,hydara,male,coralii_hyb,ST,hybrid,0,Serpa BRA AM,-3.166666667,-58.26666667
+10428689,10428689_D_lowres.tif,dorsal,erato,hydara,male,coralii_hyb,,hybrid,0,Guyana COUNTRY,,
+10428689,10428689_V_lowres.tif,ventral,erato,hydara,male,coralii_hyb,,hybrid,0,Guyana COUNTRY,,
+10428690,10428690_D_lowres.tif,dorsal,erato,hydara,male,ab._dryope,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428690,10428690_V_lowres.tif,ventral,erato,hydara,male,ab._dryope,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428691,10428691_D_lowres.tif,dorsal,erato,hydara,male,ab._dryope,,hybrid,0,Serpa BRA AM,-3.166666667,-58.26666667
+10428691,10428691_V_lowres.tif,ventral,erato,hydara,male,ab._dryope,,hybrid,0,Serpa BRA AM,-3.166666667,-58.26666667
+10428692,10428692_D_lowres.tif,dorsal,erato,hydara,female,coralii_hyb,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428692,10428692_V_lowres.tif,ventral,erato,hydara,female,coralii_hyb,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428693,10428693_D_lowres.tif,dorsal,erato,hydara,female,coralii_hyb,ST,hybrid,0,Serpa BRA AM,-3.166666667,-58.26666667
+10428693,10428693_V_lowres.tif,ventral,erato,hydara,female,coralii_hyb,ST,hybrid,0,Serpa BRA AM,-3.166666667,-58.26666667
+10428694,10428694_D_lowres.tif,dorsal,erato,hydara,female,coralii_hyb,ST,hybrid,0,Serpa BRA AM,-3.166666667,-58.26666667
+10428694,10428694_V_lowres.tif,ventral,erato,hydara,female,coralii_hyb,ST,hybrid,0,Serpa BRA AM,-3.166666667,-58.26666667
+10428695,10428695_D_lowres.tif,dorsal,erato,hydara,female,ab._dryope,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428695,10428695_V_lowres.tif,ventral,erato,hydara,female,ab._dryope,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428697,10428697_D_lowres.tif,dorsal,erato,amalfreda,male,ab._cybelellus,ST,hybrid,0,Serpa BRA AM,-3.166666667,-58.26666667
+10428697,10428697_V_lowres.tif,ventral,erato,amalfreda,male,ab._cybelellus,ST,hybrid,0,Serpa BRA AM,-3.166666667,-58.26666667
+10428698,10428698_D_lowres.tif,dorsal,erato,amalfreda,male,ab._cybelellus,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428698,10428698_V_lowres.tif,ventral,erato,amalfreda,male,ab._cybelellus,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428699,10428699_D_lowres.tif,dorsal,erato,amalfreda,male,ab._cybelellus,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428699,10428699_V_lowres.tif,ventral,erato,amalfreda,male,ab._cybelellus,,hybrid,0,Obidos BRA PA,-1.9,-55.51666667
+10428700,10428700_D_lowres.tif,dorsal,erato,erato,male,oberthurii_hyb,,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428700,10428700_V_lowres.tif,ventral,erato,erato,male,oberthurii_hyb,,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428701,10428701_D_lowres.tif,dorsal,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Isthmus PAN ,,
+10428701,10428701_V_lowres.tif,ventral,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Isthmus PAN ,,
+10428702,10428702_D_lowres.tif,dorsal,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428702,10428702_V_lowres.tif,ventral,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428703,10428703_D_lowres.tif,dorsal,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428703,10428703_V_lowres.tif,ventral,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428704,10428704_D_lowres.tif,dorsal,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428704,10428704_V_lowres.tif,ventral,erato,amalfreda,male,ab._leda_hyb,,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428705,10428705_D_lowres.tif,dorsal,erato,erato,female,oberthurii_hyb,ST,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428705,10428705_V_lowres.tif,ventral,erato,erato,female,oberthurii_hyb,ST,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428716,10428716_D_lowres.tif,dorsal,erato,erato,male,ab._constricta,,hybrid,0,Itaituba - Obidos BRA PA,-4.283333333,-55.98333333
+10428716,10428716_V_lowres.tif,ventral,erato,erato,male,ab._constricta,,hybrid,0,Itaituba - Obidos BRA PA,-4.283333333,-55.98333333
+10428717,10428717_D_lowres.tif,dorsal,erato,erato,male,ab._constricta,,hybrid,0,Juan Vinas CRI,9.9,-83.73333333
+10428717,10428717_V_lowres.tif,ventral,erato,erato,male,ab._constricta,,hybrid,0,Juan Vinas CRI,9.9,-83.73333333
+10428718,10428718_D_lowres.tif,dorsal,erato,erato,male,ab._constricta,,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428718,10428718_V_lowres.tif,ventral,erato,erato,male,ab._constricta,,hybrid,0,Berg - en - Dal SUR BR,5.15,-55.06666667
+10428725,10428725_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Sixaola Rio CRI LI,9.556530556,-82.73621389
+10428725,10428725_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Sixaola Rio CRI LI,9.556530556,-82.73621389
+10428726,10428726_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Sixaola Rio CRI LI,9.556530556,-82.73621389
+10428726,10428726_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Sixaola Rio CRI LI,9.556530556,-82.73621389
+10428727,10428727_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Lion Hill PAN CN,9.233333333,-79.9
+10428727,10428727_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Lion Hill PAN CN,9.233333333,-79.9
+10428728,10428728_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Boquete PAN CQ,8.783333333,-82.43333333
+10428728,10428728_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Boquete PAN CQ,8.783333333,-82.43333333
+10428729,10428729_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Veraguas PAN VE,8.866666667,-80.9
+10428729,10428729_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Veraguas PAN VE,8.866666667,-80.9
+10428730,10428730_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Pacora PAN PA,9.083333333,-79.28333333
+10428730,10428730_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Pacora PAN PA,9.083333333,-79.28333333
+10428731,10428731_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Rey Isla del PAN PA,8.355436111,-78.90127778
+10428731,10428731_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Rey Isla del PAN PA,8.355436111,-78.90127778
+10428732,10428732_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,HT,hybrid,0,Chiriqui PAN CQ,8.383333333,-82.33333333
+10428732,10428732_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,HT,hybrid,0,Chiriqui PAN CQ,8.383333333,-82.33333333
+10428733,10428733_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Rio Frio COL MA,10.91666667,-74.16666667
+10428733,10428733_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Rio Frio COL MA,10.91666667,-74.16666667
+10428734,10428734_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Estrella CRI LI,9.716666667,-83.11666667
+10428734,10428734_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Estrella CRI LI,9.716666667,-83.11666667
+10428735,10428735_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Lion Hill PAN CN,9.233333333,-79.9
+10428735,10428735_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Lion Hill PAN CN,9.233333333,-79.9
+10428736,10428736_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Merida VEN ME,8.6,-71.133333
+10428736,10428736_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Merida VEN ME,8.6,-71.133333
+10428737,10428737_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Tocumen near PAN PA,9.083333333,-79.38333333
+10428737,10428737_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Tocumen near PAN PA,9.083333333,-79.38333333
+10428738,10428738_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Chiriqui PAN CQ,8.383333333,-82.33333333
+10428738,10428738_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Chiriqui PAN CQ,8.383333333,-82.33333333
+10428739,10428739_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Calobre PAN VE,8.316666667,-80.85
+10428739,10428739_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Calobre PAN VE,8.316666667,-80.85
+10428740,10428740_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Lion Hill PAN CN,9.233333333,-79.9
+10428740,10428740_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Lion Hill PAN CN,9.233333333,-79.9
+10428741,10428741_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Santa Fe PAN VE,8.516666667,-81.08333333
+10428741,10428741_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Santa Fe PAN VE,8.516666667,-81.08333333
+10428742,10428742_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Jurua Alto BRA AC,,
+10428742,10428742_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Jurua Alto BRA AC,,
+10428743,10428743_D_lowres.tif,dorsal,erato,hydara,male,ab._tristis,,hybrid,0,Lino PAN CQ,8.8,-82.43333333
+10428743,10428743_V_lowres.tif,ventral,erato,hydara,male,ab._tristis,,hybrid,0,Lino PAN CQ,8.8,-82.43333333
+10428744,10428744_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Chiriqui PAN CQ,8.383333333,-82.33333333
+10428744,10428744_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Chiriqui PAN CQ,8.383333333,-82.33333333
+10428745,10428745_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Calobre PAN VE,8.316666667,-80.85
+10428745,10428745_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Calobre PAN VE,8.316666667,-80.85
+10428746,10428746_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Monte Lirio PAN CZ,9.233333333,-79.85
+10428746,10428746_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Monte Lirio PAN CZ,9.233333333,-79.85
+10428747,10428747_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Jurua Alto BRA AC,,
+10428747,10428747_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Jurua Alto BRA AC,,
+10428748,10428748_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Taboga Isla PAN PA,8.783333333,-79.55
+10428748,10428748_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Taboga Isla PAN PA,8.783333333,-79.55
+10428749,10428749_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Matachin PAN CN,9.116666667,-79.7
+10428749,10428749_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Matachin PAN CN,9.116666667,-79.7
+10428750,10428750_D_lowres.tif,dorsal,erato,hydara,female,ab._tristis,,hybrid,0,Insolita Isla PAN CQ,8.116666667,-81.73333333
+10428750,10428750_V_lowres.tif,ventral,erato,hydara,female,ab._tristis,,hybrid,0,Insolita Isla PAN CQ,8.116666667,-81.73333333
+10428751,10428751_D_lowres.tif,dorsal,erato,hydara,male,var._viculata_hyb.,ST,hybrid,0,Chiriqui PAN CQ,8.383333333,-82.33333333
+10428751,10428751_V_lowres.tif,ventral,erato,hydara,male,var._viculata_hyb.,ST,hybrid,0,Chiriqui PAN CQ,8.383333333,-82.33333333
+10428831,10428831_D_lowres.tif,dorsal,erato,hydara,male,var._viculata_hyb.,ST,hybrid,0,Puerto Cabello VEN CA,10.46666667,-68.01666667
+10428831,10428831_V_lowres.tif,ventral,erato,hydara,male,var._viculata_hyb.,ST,hybrid,0,Puerto Cabello VEN CA,10.46666667,-68.01666667
+10428856,10428856_D_lowres.tif,dorsal,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428856,10428856_V_lowres.tif,ventral,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428858,10428858_D_lowres.tif,dorsal,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428858,10428858_V_lowres.tif,ventral,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428859,10428859_D_lowres.tif,dorsal,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428859,10428859_V_lowres.tif,ventral,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428860,10428860_D_lowres.tif,dorsal,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428860,10428860_V_lowres.tif,ventral,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428861,10428861_D_lowres.tif,dorsal,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428861,10428861_V_lowres.tif,ventral,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428862,10428862_D_lowres.tif,dorsal,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428862,10428862_V_lowres.tif,ventral,erato,cyrbia,male,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428863,10428863_D_lowres.tif,dorsal,erato,cyrbia,male,ab._diformata_hyb.,ST,hybrid,0,no data,,
+10428863,10428863_V_lowres.tif,ventral,erato,cyrbia,male,ab._diformata_hyb.,ST,hybrid,0,no data,,
+10428864,10428864_D_lowres.tif,dorsal,erato,cyrbia,male,ab._diformata_hyb.,PT,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428864,10428864_V_lowres.tif,ventral,erato,cyrbia,male,ab._diformata_hyb.,PT,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428865,10428865_D_lowres.tif,dorsal,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428865,10428865_V_lowres.tif,ventral,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428866,10428866_D_lowres.tif,dorsal,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428866,10428866_V_lowres.tif,ventral,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428867,10428867_D_lowres.tif,dorsal,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428867,10428867_V_lowres.tif,ventral,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428868,10428868_D_lowres.tif,dorsal,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428868,10428868_V_lowres.tif,ventral,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428869,10428869_D_lowres.tif,dorsal,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428869,10428869_V_lowres.tif,ventral,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428870,10428870_D_lowres.tif,dorsal,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428870,10428870_V_lowres.tif,ventral,erato,cyrbia,female,ab._diformata_hyb.,,hybrid,0,Paramba ECD IM,0.816666667,-78.35
+10428996,10428996_D_lowres.tif,dorsal,erato,emma,male,f._agnata_hyb.,,hybrid,0,Pichis Road PER PA,-10.25,-74.75
+10428996,10428996_V_lowres.tif,ventral,erato,emma,male,f._agnata_hyb.,,hybrid,0,Pichis Road PER PA,-10.25,-74.75
+10428997,10428997_D_lowres.tif,dorsal,erato,emma,female,f._agnata_hyb.,HT,hybrid,0,Peru  COUNTRY,,
+10428997,10428997_V_lowres.tif,ventral,erato,emma,female,f._agnata_hyb.,HT,hybrid,0,Peru  COUNTRY,,
+10428998,10428998_D_lowres.tif,dorsal,erato,erato,male,microlea_X_lativitta_hyb.,,hybrid,0,Pichis Road PER PA,-10.25,-74.75
+10428998,10428998_V_lowres.tif,ventral,erato,erato,male,microlea_X_lativitta_hyb.,,hybrid,0,Pichis Road PER PA,-10.25,-74.75
+10429003,10429003_D_lowres.tif,dorsal,erato,favorinus,female,f._eratophylla_hyb.,HT,hybrid,0,Tarapoto PER SM,-6.483333333,-76.36666667
+10429003,10429003_V_lowres.tif,ventral,erato,favorinus,female,f._eratophylla_hyb.,HT,hybrid,0,Tarapoto PER SM,-6.483333333,-76.36666667
+10429004,10429004_D_lowres.tif,dorsal,erato,favorinusxlativitta,male,favorinus_x_lativitta_hyb.,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10429004,10429004_V_lowres.tif,ventral,erato,favorinusxlativitta,male,favorinus_x_lativitta_hyb.,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10429005,10429005_D_lowres.tif,dorsal,erato,favorinusxlativitta,male,favorinus_x_lativitta_hyb.,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10429005,10429005_V_lowres.tif,ventral,erato,favorinusxlativitta,male,favorinus_x_lativitta_hyb.,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10429006,10429006_D_lowres.tif,dorsal,erato,favorinusxlativitta,female,favorinus_x_lativitta_hyb.,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10429006,10429006_V_lowres.tif,ventral,erato,favorinusxlativitta,female,favorinus_x_lativitta_hyb.,,hybrid,0,Yumbatos PER SM,-6.316666667,-76.28333333
+10429007,10429007_D_lowres.tif,dorsal,erato,favorinus,male,f._pseudoanacreon,,hybrid,0,Balsapuerto PER LO,-5.833333333,-76.56666667
+10429007,10429007_V_lowres.tif,ventral,erato,favorinus,male,f._pseudoanacreon,,hybrid,0,Balsapuerto PER LO,-5.833333333,-76.56666667
+10429008,10429008_D_lowres.tif,dorsal,erato,favorinus,female,f._pseudoanacreon,,hybrid,0,Balsapuerto PER LO,-5.833333333,-76.56666667
+10429008,10429008_V_lowres.tif,ventral,erato,favorinus,female,f._pseudoanacreon,,hybrid,0,Balsapuerto PER LO,-5.833333333,-76.56666667
+10429009,10429009_D_lowres.tif,dorsal,erato,favorinusxlativitta,male,favorinus_x_lativitta_hyb.,,hybrid,0,Balsapuerto PER LO,-5.833333333,-76.56666667
+10429009,10429009_V_lowres.tif,ventral,erato,favorinusxlativitta,male,favorinus_x_lativitta_hyb.,,hybrid,0,Balsapuerto PER LO,-5.833333333,-76.56666667
+10429019,10429019_D_lowres.tif,dorsal,erato,notabilis,male,f._rubrescens,,hybrid,0,Prov. Sara BOL SC,-16.83333333,-63.91666667
+10429019,10429019_V_lowres.tif,ventral,erato,notabilis,male,f._rubrescens,,hybrid,0,Prov. Sara BOL SC,-16.83333333,-63.91666667
+10429027,10429027_D_lowres.tif,dorsal,erato,notabilis,male,f._rosacea_hyb.,,hybrid,0,Quirigua GUA,15.31638889,-89.08305556
+10429027,10429027_V_lowres.tif,ventral,erato,notabilis,male,f._rosacea_hyb.,,hybrid,0,Quirigua GUA,15.31638889,-89.08305556
+10429028,10429028_D_lowres.tif,dorsal,erato,notabilis,male,f._rosacea_hyb.,HT,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429028,10429028_V_lowres.tif,ventral,erato,notabilis,male,f._rosacea_hyb.,HT,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429031,10429031_D_lowres.tif,dorsal,erato,notabilis,male,radiata_hyb.,,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429031,10429031_V_lowres.tif,ventral,erato,notabilis,male,radiata_hyb.,,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429032,10429032_D_lowres.tif,dorsal,erato,notabilis,male,radiata_hyb.,,hybrid,0,Jibaria ECD,-1.933333333,-77.78333333
+10429032,10429032_V_lowres.tif,ventral,erato,notabilis,male,radiata_hyb.,,hybrid,0,Jibaria ECD,-1.933333333,-77.78333333
+10429033,10429033_D_lowres.tif,dorsal,erato,notabilis,male,radiata_hyb.,,hybrid,0,Retalhuleu GUA,14.53333333,-91.68333333
+10429033,10429033_V_lowres.tif,ventral,erato,notabilis,male,radiata_hyb.,,hybrid,0,Retalhuleu GUA,14.53333333,-91.68333333
+10429034,10429034_D_lowres.tif,dorsal,erato,notabilis,female,radiata_hyb.,,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429034,10429034_V_lowres.tif,ventral,erato,notabilis,female,radiata_hyb.,,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429035,10429035_D_lowres.tif,dorsal,erato,notabilis,female,radiata_hyb.,,hybrid,0,Rio Cachiaco; Iquitos ,-3.75,-73.25
+10429035,10429035_V_lowres.tif,ventral,erato,notabilis,female,radiata_hyb.,,hybrid,0,Rio Cachiaco; Iquitos ,-3.75,-73.25
+10429036,10429036_D_lowres.tif,dorsal,erato,notabilis,female,radiata_hyb.,,hybrid,0,Rio Hondo BEL,18.43776944,-88.52266944
+10429036,10429036_V_lowres.tif,ventral,erato,notabilis,female,radiata_hyb.,,hybrid,0,Rio Hondo BEL,18.43776944,-88.52266944
+10429037,10429037_D_lowres.tif,dorsal,erato,notabilis,male,f._beata,,hybrid,0,Balzapamba ECD BO,-1.783333333,-79.16666667
+10429037,10429037_V_lowres.tif,ventral,erato,notabilis,male,f._beata,,hybrid,0,Balzapamba ECD BO,-1.783333333,-79.16666667
+10429038,10429038_D_lowres.tif,dorsal,erato,notabilis,female,f._beata,HT,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429038,10429038_V_lowres.tif,ventral,erato,notabilis,female,f._beata,HT,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429039,10429039_D_lowres.tif,dorsal,erato,notabilis,male,f._rothschildi_hyb.,,hybrid,0,Balzapamba ECD BO,-1.783333333,-79.16666667
+10429039,10429039_V_lowres.tif,ventral,erato,notabilis,male,f._rothschildi_hyb.,,hybrid,0,Balzapamba ECD BO,-1.783333333,-79.16666667
+10429040,10429040_D_lowres.tif,dorsal,erato,notabilis,male,f._rothschildi_hyb.,ST,hybrid,0,Rio Negro,4.25,-73.75
+10429040,10429040_V_lowres.tif,ventral,erato,notabilis,male,f._rothschildi_hyb.,ST,hybrid,0,Rio Negro,4.25,-73.75
+10429041,10429041_D_lowres.tif,dorsal,erato,notabilis,female,f._rothschildi_hyb.,ST,hybrid,0,Rio Negro,4.25,-73.75
+10429041,10429041_V_lowres.tif,ventral,erato,notabilis,female,f._rothschildi_hyb.,ST,hybrid,0,Rio Negro,4.25,-73.75
+10429042,10429042_D_lowres.tif,dorsal,erato,notabilis,male,f._rothschildi_hyb.,,hybrid,0,Rio Negro,4.25,-73.75
+10429042,10429042_V_lowres.tif,ventral,erato,notabilis,male,f._rothschildi_hyb.,,hybrid,0,Rio Negro,4.25,-73.75
+10429043,10429043_D_lowres.tif,dorsal,erato,notabilis,female,f._rothschildi_hyb.,,hybrid,0,Rio Negro  COL,4.25,-73.75
+10429043,10429043_V_lowres.tif,ventral,erato,notabilis,female,f._rothschildi_hyb.,,hybrid,0,Rio Negro  COL,4.25,-73.75
+10429044,10429044_D_lowres.tif,dorsal,erato,notabilis,female,f._rothschildi_hyb.,,hybrid,0,Rio Negro  COL,4.25,-73.75
+10429044,10429044_V_lowres.tif,ventral,erato,notabilis,female,f._rothschildi_hyb.,,hybrid,0,Rio Negro  COL,4.25,-73.75
+10429045,10429045_D_lowres.tif,dorsal,erato,lativitta,male,f._feyeri,,hybrid,0,Rio Negro  COL,4.25,-73.75
+10429045,10429045_V_lowres.tif,ventral,erato,lativitta,male,f._feyeri,,hybrid,0,Rio Negro  COL,4.25,-73.75
+10429046,10429046_D_lowres.tif,dorsal,erato,lativitta,male,f._feyeri,,hybrid,0,Rio Negro COL,4.25,-73.75
+10429046,10429046_V_lowres.tif,ventral,erato,lativitta,male,f._feyeri,,hybrid,0,Rio Negro COL,4.25,-73.75
+10429047,10429047_D_lowres.tif,dorsal,erato,lativitta,male,f._feyeri,,hybrid,0,Rio Negro COL,4.25,-73.75
+10429047,10429047_V_lowres.tif,ventral,erato,lativitta,male,f._feyeri,,hybrid,0,Rio Negro COL,4.25,-73.75
+10429049,10429049_D_lowres.tif,dorsal,erato,lativitta,male,f._ochracea,HT,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429049,10429049_V_lowres.tif,ventral,erato,lativitta,male,f._ochracea,HT,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429051,10429051_D_lowres.tif,dorsal,erato,lativitta,male,f._ochracea,,hybrid,0,Riobamba ECD CH,,
+10429051,10429051_V_lowres.tif,ventral,erato,lativitta,male,f._ochracea,,hybrid,0,Riobamba ECD CH,,
+10429052,10429052_D_lowres.tif,dorsal,erato,notabilis,male,f._ilia_hyb.,HT,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429052,10429052_V_lowres.tif,ventral,erato,notabilis,male,f._ilia_hyb.,HT,hybrid,0,Pastaza Rio Upper ECD,-1.25,-78.25
+10429053,10429053_D_lowres.tif,dorsal,erato,notabilis,male,f._ilia_hyb.,,hybrid,0,Riobamba ECD CH,,
+10429053,10429053_V_lowres.tif,ventral,erato,notabilis,male,f._ilia_hyb.,,hybrid,0,Riobamba ECD CH,,
+10429054,10429054_D_lowres.tif,dorsal,erato,notabilis,female,f._ilia_hyb.,,hybrid,0,Riobamba ECD CH,,
+10429054,10429054_V_lowres.tif,ventral,erato,notabilis,female,f._ilia_hyb.,,hybrid,0,Riobamba ECD CH,,
+10429057,10429057_D_lowres.tif,dorsal,erato,etylus,male,ab._insignis_hyb.,,hybrid,0,Zamora ECD ZC,-4.066666667,-78.96666667
+10429057,10429057_V_lowres.tif,ventral,erato,etylus,male,ab._insignis_hyb.,,hybrid,0,Zamora ECD ZC,-4.066666667,-78.96666667
+10429058,10429058_D_lowres.tif,dorsal,erato,etylus,male,ab._insignis_hyb.,,hybrid,0,Zamora ECD ZC,-4.066666667,-78.96666667
+10429058,10429058_V_lowres.tif,ventral,erato,etylus,male,ab._insignis_hyb.,,hybrid,0,Zamora ECD ZC,-4.066666667,-78.96666667
+10429059,10429059_D_lowres.tif,dorsal,erato,etylus,male,ab._insignis_hyb.,,hybrid,0,Zamora ECD ZC,-4.066666667,-78.96666667
+10429059,10429059_V_lowres.tif,ventral,erato,etylus,male,ab._insignis_hyb.,,hybrid,0,Zamora ECD ZC,-4.066666667,-78.96666667
+10429060,10429060_D_lowres.tif,dorsal,erato,etylus,female,ab._insignis_hyb.,,hybrid,0,Zamora ECD ZC,-4.066666667,-78.96666667
+10429060,10429060_V_lowres.tif,ventral,erato,etylus,female,ab._insignis_hyb.,,hybrid,0,Zamora ECD ZC,-4.066666667,-78.96666667
+10429061,10429061_D_lowres.tif,dorsal,erato,etylus,female,ab._insignis_hyb.,,hybrid,0,Zamora ECD ZC,-4.066666667,-78.96666667
+10429061,10429061_V_lowres.tif,ventral,erato,etylus,female,ab._insignis_hyb.,,hybrid,0,Zamora ECD ZC,-4.066666667,-78.96666667
+10429112,10429112_D_lowres.tif,dorsal,erato,emma,male,f._palmata_hyb,HT,hybrid,0,Surinam  COUNTRY,,
+10429112,10429112_V_lowres.tif,ventral,erato,emma,male,f._palmata_hyb,HT,hybrid,0,Surinam  COUNTRY,,
+10429146,10429146_D_lowres.tif,dorsal,erato,dignus,female,f._glaucina,HT,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429146,10429146_V_lowres.tif,ventral,erato,dignus,female,f._glaucina,HT,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429147,10429147_D_lowres.tif,dorsal,erato,lativitta,male,f._perplexa,,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429147,10429147_V_lowres.tif,ventral,erato,lativitta,male,f._perplexa,,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429148,10429148_D_lowres.tif,dorsal,erato,lativitta,female,f._perplexa,,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429148,10429148_V_lowres.tif,ventral,erato,lativitta,female,f._perplexa,,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429149,10429149_D_lowres.tif,dorsal,erato,lativitta,male,f._perplexa,PT,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429149,10429149_V_lowres.tif,ventral,erato,lativitta,male,f._perplexa,PT,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429150,10429150_D_lowres.tif,dorsal,erato,dignus,male,f._meliorina,ST,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429150,10429150_V_lowres.tif,ventral,erato,dignus,male,f._meliorina,ST,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429151,10429151_D_lowres.tif,dorsal,erato,dignus,female,f._meliorina,ST,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429151,10429151_V_lowres.tif,ventral,erato,dignus,female,f._meliorina,ST,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429152,10429152_D_lowres.tif,dorsal,erato,dignus,female,f._problemata,ST,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429152,10429152_V_lowres.tif,ventral,erato,dignus,female,f._problemata,ST,hybrid,0,Mocoa COL PU,1.15,-76.61666667
+10429153,10429153_D_lowres.tif,dorsal,erato,lativitta,male,f._anactorina,,hybrid,0,St. Marguent? FRG,-1.583333333,-77.75
+10429153,10429153_V_lowres.tif,ventral,erato,lativitta,male,f._anactorina,,hybrid,0,St. Marguent? FRG,-1.583333333,-77.75
