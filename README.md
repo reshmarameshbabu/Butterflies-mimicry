@@ -28,7 +28,7 @@ The big biological question of connecting phenotype to genotype shapes the futur
 - 18 subspecies, 9 mimic pairs 
 - Also contains code used for classification experiments on Jiggins dataset using bird and butterfly acuity
 - Refer to https://github.com/eleanorcaves/AcuityView to calculate acuity images
-- Kingfisher acuity used for birds and Lepidoptera parthenos sylvia used
+- Kingfisher acuity used for birds and Lepidoptera parthenos sylvia used for butterfly acuity
 - Results on these experiments can be found in corresponding folders
 
 ## Landmarking
